@@ -17,8 +17,7 @@ For both Assignment 2 and 3, you need to submit a 2-3 page report and your code 
 
 **Deadline**
 
-Assignment 2 is due on March 28 at 11:59pm.
-
+Assignment 2 is due on March 28 at 11:59pm.  
 Assignment 3 is due on March 31 at 11:59pm.
 
 None of the parts of this assignment require use of a machine with a GPU. You may complete the assignment using your local machine or you may use Google Colaboratory. However, we encourage you to try using Google Cloud platform for Assignment 3 and get familiar with it as it would be helpful in upcoming assignments.
